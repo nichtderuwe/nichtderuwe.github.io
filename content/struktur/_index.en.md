@@ -5,14 +5,12 @@ pre: "<b>1. </b>"
 weight: 13
 ---
 
-A detailled overview regarding Uwe Thrum:
-
-
+# A detailled overview regarding Uwe Thrum and his connection to far-right activits and Reichsbürger extremists
 
 {{< rawhtml >}}
 
   <p class="speshal-fancy-custom">
-    Click once to show control elements<br>Zoom with the upper elements,<strong>drag to move</strong>, inside Map.
+    Zoom with the upper elements,<strong>drag/scroll/shift+scroll to move</strong>, inside Map.<br><strong>Mobile devices:</strong>Click once to show control elements
 <iframe frameborder="0" style="width:100%;height:795px;" src="/mindmap.html"><br>
 
   </p>

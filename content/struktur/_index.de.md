@@ -10,7 +10,7 @@ Uwe Thrum wirbt mit seinen guten Kontakten zu Extremisten
 {{< rawhtml >}}
 
   <p class="speshal-fancy-custom">
-    Einmal in das Diagramm klicken um Bedienelemente anzuzeigen<br>Zoom mit den oberen Elementen,<strong>ziehen zum Bewegen</strong> im Diagramm
+    Zoom mit den oberen Elementen,<strong>ziehen/scrollen/shift+scrollen zum Bewegen</strong> im Diagramm<br><strong>Mobile Geräte:</strong>Einmal in das Diagramm klicken um Bedienelemente anzuzeigen
 <iframe frameborder="0" style="width:100%;height:795px;" src="/mindmap.html"><br>
 
   </p>
