@@ -36,7 +36,13 @@ Zu seinen "Höchstleistungen" gehören u.a.:
 
 ---
 
-Sein Wahlkampf gipfelte in einer Veranstaltung im "Goldenen Stern" Kleindembach mit Björn Höcke, zu der dieser z.B.  fragte:
+[Als Herr Thrum im Januar 2024 zu einem Wahlforum nicht eingeladen wurde, hat er einfach zwei "Spaziergänge" mit 250 und 300 Teilnehmern in Neustadt/Orla und Pößneck veranstaltet, bei denen er forderte Erfurt zum zentralen Abschiebeflughafen auszubauen.](https://www.otz.de/regionen/saale-orla-kreis/article241387046/Beifall-ueber-zentralen-Abschiebe-Flughafen.html)
+
+[Das "Duell" zur Stichwahl hat Überfremdungsangst-𝖀𝖂𝕰 kurzerhand per Videobotschaft abgesagt, und den ersten Post bei "Hallo Oberland" sogar noch gelöscht, um die Zeile "OTZ Absage erteilt" einzufügen und die Überschrift zu ändern.](/de/media/hallo-oberland-thrum-deletion/)
+
+---
+
+Der Wahlkampf von 𝖀𝖂𝕰 Thrum gipfelte in einer Veranstaltung im "Goldenen Stern" Kleindembach mit Björn Höcke, zu der dieser z.B.  fragte:
 > [**Wollen wir ein Europa der Vaterländer?**](https://youtu.be/jOvt56iuD-w?si=aJauVwjs4yJyq-e2&t=2217) (Björn Höcke, 01/2024)
 
 Damit ist Höcke endgültig dazu übergegangen, [Forderungen aus dem NSU/THS Komplex im Wortlaut zu übernehmen](https://de.wikipedia.org/wiki/Fest_der_V%C3%B6lker)
@@ -44,9 +50,7 @@ Damit ist Höcke endgültig dazu übergegangen, [Forderungen aus dem NSU/THS Kom
 Im Anschluss versprach Höcke, man werde "aus dem Osten Heraus die Republik verändern, zum guten verändern", um die Rede zu beenden mit den Worten
 > **[es lebe Thüringen, es lebe unser Deutsches Vaterland, es lebe das wahre Europa](https://youtu.be/jOvt56iuD-w?si=CR9LRzhGzEkYK2wJ&t=3648)** (Björn Höcke, 01/2024)
 
-[Als Herr Thrum im Januar 2024 zu einem Wahlforum nicht eingeladen wurde, hat er einfach zwei "Spaziergänge" mit 250 und 300 Teilnehmern in Neustadt/Orla und Pößneck veranstaltet, bei denen er forderte Erfurt zum zentralen Abschiebeflughafen auszubauen.](https://www.otz.de/regionen/saale-orla-kreis/article241387046/Beifall-ueber-zentralen-Abschiebe-Flughafen.html)
-
-[Das "Duell" zur Stichwahl hat Überfremdungsangst-𝖀𝖂𝕰 kurzerhand per Videobotschaft abgesagt, und den ersten Post bei "Hallo Oberland" sogar noch gelöscht, um die Zeile "OTZ Absage erteilt" einzufügen und die Überschrift zu ändern.](/de/media/hallo-oberland-thrum-deletion/)
+( #DemGoldnenSternBleibichfern )
 
 #### [Eine Übersicht zum Netzwerk von Uwe Thrum gibt es hier im Diagramm ]({{%relref "struktur/_index.md"%}}) 
 
