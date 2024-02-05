@@ -1,0 +1,80 @@
+baseURL = "/"
+languageCode = "de-DE"
+defaultContentLanguage = "de"
+
+title = "Nicht Der Uwe"
+theme = "hugo-theme-learn"
+themesdir = "themes"
+
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  #editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
+  description = "Informationsseite Uwe Thrum und die Verbindungen zu Extremisten und Reichsbuergern"
+  author = "Nicht Der 𝖀𝖂𝕰"
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLandingPageButton = true
+  disableMermaid = false
+  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+  titleSeparator = "::"
+  #count_js = ["https://takeback-1-m5740961.deta.app/api/kit/ZH1YL6FXH58C4P6YFZAWQG"]
+  themeVariant = "mine" 
+  defaultimg="/img/nichtderuwe.gif"
+  logo = "img/nichtderuwe.gif"
+  header = "#NichtDer𝖀𝖂𝕰"
+  
+  facebook = "nichtderuwe"
+  twitter = "nichtderuwe"
+  instagram = "nichtderuwe"
+  github = "nichtderuwe"
+  tinyurl = "nichtderuwe"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+
+[sitemap]
+  changeFreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = -1
+
+[Languages]
+[Languages.en]
+title = "Documentation Portal about AfD-Politician Uwe Thrum and his connections to far-right activists and extremists"
+weight = 1
+languageName = "English"
+landingPageURL = "/en"
+landingPageName = "<i class='fas fa-home'></i> Home"
+
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+url = "showcase"
+weight = 11
+
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+url = "/credits"
+weight = 30
+
+[Languages.de]
+title = "Informationsseite zu Uwe Thrum und seinen Verbindungen zu Extremisten und Reichsbuergern"
+weight = 2
+languageName = "Deutsch"
+landingPageURL = "/de"
+landingPageName = "<i class='fas fa-home'></i> Startseite"
+
+
+[[Languages.de.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Showcase"
+url = "/showcase"
+weight = 11
+
+[[Languages.de.menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
+url = "/credits"
+weight = 30

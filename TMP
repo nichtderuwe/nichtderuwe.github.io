@@ -1,0 +1,69 @@
+
+{{%expand "Klicken um mehr zu lesen ?" %}}Yes !.{{% /expand%}}
+[Plus d'infos]({{%relref "cont/pages/_index.md"%}}) 
+
+To avoid this limitations, Hugo created [shortcodes](https://gohugo.io/extras/shortcodes/). A shortcode is a simple snippet inside a page.
+
+**Hugo-theme-learn** provides multiple shortcodes on top of existing ones.
+
+{{%children style="h2" description="true" %}}
+
+Mais c'est probablement une mauvaise idée. Tout le monde utilise le Markdown parce que c'est pur et simple à lire même lorsqu'il est affiché en texte brut. Vous devez éviter le HTML autant que possible pour garder le contenu simple.
+
+Cependant, pour éviter les limitations, Hugo a créé les [shortcodes](https://gohugo.io/extras/shortcodes/). Un shortcode est un bout de code (*snippet*) dans une page.
+
+**Hugo-theme-learn** fournit de multiple shortcodes en plus de ceux existant.
+
+{{%children style="h2" description="true" %}}
+
+
+Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.
+
+But this happens to be a bad idea. Everyone uses Markdown because it's pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.
+
+To avoid this limitations, Hugo created [shortcodes](https://gohugo.io/extras/shortcodes/). A shortcode is a simple snippet inside a page.
+
+**Hugo-theme-learn** provides multiple shortcodes on top of existing ones.
+
+{{%children style="h2" description="true" %}}
+
+
+
+Cependant, pour éviter les limitations, Hugo a créé les [shortcodes](https://gohugo.io/extras/shortcodes/). Un shortcode est un bout de code (*snippet*) dans une page.
+
+**Hugo-theme-learn** fournit de multiple shortcodes en plus de ceux existant.
+
+{{%children style="h2" description="true" %}}
+
+{{% notice info %}}
+Votre modification sera déployée automatiquement quand elle sera mergée.
+{{% /notice %}}
+
+
+
+## Fonctionnalités principales
+
+![Screenshot](https://github.com/matcornic/hugo-theme-learn/raw/master/images/screenshot.png?width=40pc&classes=shadow)
+
+## Contribuer à cette documentation
+
+N'hésitez pas à mettre à jour ce contenu en cliquant sur le lien **Modifier cette page** en haut de chaque page, et créer la Pull Request associée.
+
+
+## Site de documentation
+
+Cette documentation statique a été générée avec Hugo avec une simple commande : `hugo -t hugo-theme-learn` -- le code source est [disponible sur Github](https://github.com/matcornic/hugo-theme-learn)
+
+{{% notice note %}}
+Le site est auomatiquement publié et hébergé par [Netlify](https://www.netlify.com/). Plus d'infos sur le [déploiement de site Hugo avec Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)(En anglais)
+{{% /notice %}}
+
+#### [TAT](https://ovh.github.io/tat/overview/) par OVH
+![TAT image](/images/showcase/tat.png?width=50pc)
+
+#### [Tshark.dev](https://tshark.dev) par Ross Jacobs
+![Tshark.dev image](/images/showcase/tshark_dev.png?width=50pc)
+
+#### [inteliver](https://docs.inteliver.com) by Amir Lavasani
+![docs.inteliver.com image](/images/showcase/inteliver_docs.png?width=50pc)
+

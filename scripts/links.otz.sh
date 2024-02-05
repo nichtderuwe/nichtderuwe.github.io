@@ -1,0 +1,1 @@
+while read myurl;do res=$(curl -skL $myurl) ; [[ -z "$res" ]]  || (echo '[ '$(echo "$res"|grep "time datetime="|cut -d'"' -f2|sed 's/T/ /g;s/\.000Z//g' ;echo "|" ; echo "$res"|grep "<title"|cut -d">" -f2|cut -d"<" -f1)' ]('$myurl')' );done
