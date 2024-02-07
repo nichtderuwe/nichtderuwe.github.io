@@ -5,5 +5,5 @@ pre: "<b>4. </b>"
 weight: 18
 ---
 
-Collected Links
+Collected Links, look into the menu to explore them
 

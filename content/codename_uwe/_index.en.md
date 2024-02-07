@@ -78,7 +78,7 @@ Here are a few more of the best 𝖀𝖂𝕰 Thrum quotes:
 ---
 
 {{% notice warning %}}[The district office decommissioned the then mayor of Lobenstein, Mr. Weigelt, after the attack on journalists.](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/saale-orla/bad-lobenstein-buergermeister-weigelt-dienst-enthoben-100.html)
-Whether the 𝖀𝖂𝕰 Thrum who was present during the incident would have carried out this remains questionable.
+Whether the 𝖀𝖂𝕰 Thrum, who was present during the incident, would have carried out this remains questionable.
 {{% /notice %}}
 
 
