@@ -19,7 +19,7 @@ mister Thrum became mixture of a mobile loudspeaker and helicopter.
 𝖀𝖂𝕰 Thrum advertises with his good contacts to right-wing activists and extremists.
 Examples include Höcke, Christian Klar and the Reich activist Haußner...𝖀𝖂𝕰 Thrum also likes to take photos with Andreas Kalbitz.
 
-When he chatted with the terrorism accused Reichsbürger Reuss and the back-then mayor Weigelt at the town festival in Bad Lobenstein,
+When Thrum chatted with the [terrorism accused Reichsbürger Reuss](https://de.wikipedia.org/wiki/Heinrich_XIII._Prinz_Reu%C3%9F) and the [back-then mayor Weigelt at the town festival in Bad Lobenstein](https://rechercheportaljenashk.noblogs.org/post/2024/01/04/von-prinzens-gnaden/),
 [the latter, in a fit of "Volkszorn", mayoralized a journalist to ground while in office.](https://www.deutschlandfunk.de/buergermeister-greift-journalisten-an-in-bad-lobenstein-100.html)
 
 𝖀𝖂𝕰 Thrums “top performances” include:
@@ -29,6 +29,8 @@ When he chatted with the terrorism accused Reichsbürger Reuss and the back-then
 * [The (unfulfillable) promise that he would pay back the Corona fines if he became district administrator](https://www.otz.de/regionen/bad-lobenstein/article238354021/Griff-in-die-Kreiskasse-Thrum-will-Corona-Bussgelder-im-Saale-Orla-Kreis-zurueckzahlen.html)
 
 * [The advice to Ukraine to simply give up its eastern territories is garnished with the accusation that Ukraine would attack its own population](https://www.otz.de/regionen/poessneck/article237632811/Saale-Orla-Kreis-Thrum-sagt-dass-die-Ukraine-Ostgebiete-abtreten-soll.html)
+
+* [Continuing demandas for Rural doctors and cycle paths that have already been addressed and turned out to be unworkable or pointless](https://www.otz.de/regionen/saale-orla-kreis/article241505318/Wahlversprechen-die-Abrechnung-vor-der-Stichwahl-im-Saale-Orla-Kreis.html)
 
 * [Instead of attending the runoff election podium for a duell, Thrum gives an interview entitled "Communist CDU or Freedom?"](https://youtu.be/0JRohdutdGM)
 

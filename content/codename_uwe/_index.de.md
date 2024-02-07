@@ -19,17 +19,19 @@ hat sich Herr Thrum zum mobilen Lautsprecher helikoptert.
 𝖀𝖂𝕰 Thrum wirbt mit seinen guten Kontakten zu rechten Aktivisten und Extremisten,
 exemplarisch zu nennen sind Höcke, Christian Klar und der Reichs-Aktivist Haußner ... Fotos mit Andreas Kalbitz macht 𝖀𝖂𝕰 Thrum auch gern.
 
-Als er zum Stadfest in Bad Lobenstein mit Reichsbürger Reuss und dem damaligen Bürgermeister Weigelt plauschte, 
+Als er zum Stadfest in Bad Lobenstein mit dem [terrorverdächtigem Reichsbürger Reuss](https://de.wikipedia.org/wiki/Heinrich_XIII._Prinz_Reu%C3%9F) [und dem damaligen Bürgermeister Weigelt plauschte](https://rechercheportaljenashk.noblogs.org/post/2024/01/04/von-prinzens-gnaden/),
 [hat letzerer in einem Anfall von Volkszorn im Amt einen Journalisten zu Boden gebürgermeistert.](https://www.deutschlandfunk.de/buergermeister-greift-journalisten-an-in-bad-lobenstein-100.html)
  
 
 Zu seinen "Höchstleistungen" gehören u.a.:
 
-* Walhkampf mit Themen die ein Landrat nicht entscheiden kann 
+* Walhkampf mit Themen die ein Landrat nicht entscheiden kann
 
 * [Das (nicht einlösbare) Versprechen, er wolle die Corona-Strafgelder zurückzahlen, wenn er Landrat würde](https://www.otz.de/regionen/bad-lobenstein/article238354021/Griff-in-die-Kreiskasse-Thrum-will-Corona-Bussgelder-im-Saale-Orla-Kreis-zurueckzahlen.html)
 
 * [Der Ratschlag an die Ukraine doch einfach ihre Ostgebiete abzugeben, garniert mit dem Vorwurf die Ukraine würde die eigene Bevölkerung angreifen](https://www.otz.de/regionen/poessneck/article237632811/Saale-Orla-Kreis-Thrum-sagt-dass-die-Ukraine-Ostgebiete-abtreten-soll.html)
+
+* [Landärzte und Fahrradwege-Forderungen die bereits angegangen wurden und sich als nicht umsetzbar oder sinnfrei herausstellten einfach weiter fordern](https://www.otz.de/regionen/saale-orla-kreis/article241505318/Wahlversprechen-die-Abrechnung-vor-der-Stichwahl-im-Saale-Orla-Kreis.html)
 
 * [Anstatt das Stichwahlduell zu besuchen gibt Thrum ein Interview mit dem Titel "Kommunistische CDU oder Freiheit?"](https://youtu.be/0JRohdutdGM)
 
