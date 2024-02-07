@@ -64,7 +64,7 @@ Im Anschluss versprach Höcke, man werde "aus dem Osten Heraus die Republik ver�
 
 
 
-[Im RecherchePortal-Jena-SHK findet man zu ihm folgendenden Text](https://rechercheportaljenashk.noblogs.org/post/2024/01/04/von-prinzens-gnaden/) 
+[Im RecherchePortal-Jena-SHK findet man zu 𝖀𝖂𝕰 Thrum folgendenden Text](https://rechercheportaljenashk.noblogs.org/post/2024/01/04/von-prinzens-gnaden/) 
 
 ```
 Uwe Thrum baute sich mit seinem rassistischen Aktivismus in einer Zeit multipler rechter Mobilisierungen eine erste Basis auf, auf die er nach seinem Eintritt in die AfD 2018 aufbauen konnte. 2019 wurde er in den Landtag gewählt und wurde dort u.a. Mitglied im Landesjugendhilfeausschuss. Zur gleichen Zeit waren immer noch seine Facebook-Likes für die Neonazi-Gruppe „Wir lieben den Saale-Holzland-Kreis“ einzusehen, die 2016 Fackelmärsche zu den Geburtstagen von Adolf Hitler und Rudolf Hess veranstaltet hatte. Mit seiner Kameradin im Geiste von 2015, Jasmin Rasche, beging Uwe Thrum dann den 1. Mai 2022 gemeinsam bei einer Kundgebung der AfD in Pößneck.

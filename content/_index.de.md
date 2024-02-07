@@ -29,4 +29,4 @@ Ob der bei dem Vorgang anwesende 𝖀𝖂𝕰 Thrum dies auch vollzogen hätte b
 {{% /notice %}}
 
 
-### [>> Lesen sie mehr über Uwe Thrum unter Codename Uwe <<]({{%relref "codename_uwe/_index.md"%}})  
+### [>> Lesen sie mehr über Uwe Thrum unter Codename 𝖀𝖂𝕰 <<]({{%relref "codename_uwe/_index.md"%}})  
