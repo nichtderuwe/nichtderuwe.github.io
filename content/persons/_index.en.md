@@ -5,12 +5,9 @@ pre: "<b>3. </b>"
 weight: 15
 ---
 
-Hugo uses Markdown for its simple content format. However, there are a lot of things that Markdown doesn’t support well. You could use pure HTML to expand possibilities.
+𝖀𝖂𝕰 Thrum advertises with his good contacts to right-wing activists and extremists.
 
-But this happens to be a bad idea. Everyone uses Markdown because it's pure and simple to read even non-rendered. You should avoid HTML to keep it as simple as possible.
+### [>> Read more about Uwe Thrum under Codename 𝖀𝖂𝕰 <<]({{%relref "codename_uwe/_index.md"%}})  
 
-To avoid this limitations, Hugo created [shortcodes](https://gohugo.io/extras/shortcodes/). A shortcode is a simple snippet inside a page.
+#### [An overview of Uwe Thrum's network can be found here in the diagram ]({{%relref "struktur/_index.md"%}}) 
 
-**Hugo-theme-learn** provides multiple shortcodes on top of existing ones.
-
-{{%children style="h2" description="true" %}}
