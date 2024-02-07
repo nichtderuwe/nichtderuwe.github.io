@@ -31,5 +31,4 @@
   {{ else }}
     <meta property="og:image" content="{{ .Site.Params.defaultimg | absURL }}">
   {{ end }}
-  
-
+    <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . ", "}}{{ end }}" />

@@ -4,6 +4,25 @@ title: Codename Uwe
 pre: "<b>0. </b>"
 weight: 11
 deescription: "Text-Info zu Uwe Thrums Extremismusverbindungen"
+tags:
+- AfD
+- Björn Höcke
+- Christan Klar
+- Extremismus
+- Neonazis
+- Fackelumzüge
+- Frank Haußner
+- Hartmut Bergner
+- Höcke
+- Martin Kohlmann
+- NichtderUwe
+- #NichtDerUwe
+- Reichsbbürger
+- Saale-Orla Kreis
+- Terrorgruppe Reuß
+- Thrum
+- Torben Braga
+- Uwe Thrum
 ---
 
 Schon die beiden letzten Uwes waren so etwas wie eine [Rufschädigung für das Bundesland.](https://de.wikipedia.org/wiki/Nationalsozialistischer_Untergrund)

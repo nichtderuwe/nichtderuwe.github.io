@@ -4,6 +4,25 @@ title: Codename Uwe
 pre: "<b>0. </b>"
 weight: 11
 deescription: "Text-Info about AfD-Politician Uwe Thrum aka #NotTheUwe and his contacts to far-right extremists and so-called Reichsbürger activists"
+tags:
+- AfD
+- Björn Höcke
+- Christan Klar
+- Extremismus
+- Neonazis
+- Fackelumzüge
+- Frank Haußner
+- Hartmut Bergner
+- Höcke
+- Martin Kohlmann
+- NichtderUwe
+- #NichtDerUwe
+- Reichsbbürger
+- Saale-Orla Kreis
+- Terrorgruppe Reuß
+- Thrum
+- Torben Braga
+- Uwe Thrum
 ---
 
 The last two Uwes were something like a [damage to the thuringian state's reputation.](https://de.wikipedia.org/wiki/Nationalsozialistischer_Untergrund)
@@ -82,7 +101,6 @@ Here are a few more of the best 𝖀𝖂𝕰 Thrum quotes:
 {{% notice warning %}}[The district office decommissioned the back-then mayor of Lobenstein, Mr. Weigelt, after the attack on journalists.](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/saale-orla/bad-lobenstein-buergermeister-weigelt-dienst-enthoben-100.html)
 Whether the 𝖀𝖂𝕰 Thrum, who was present during the incident, would have carried out this remains questionable.
 {{% /notice %}}
-
 
 
 {{% notice tip %}}{{< rawhtml >}}If #NichtDerUwe had won the runoff election for district administrator, only the state administration office could have stopped him  to become **Employer of an assembly and weapons authority**.

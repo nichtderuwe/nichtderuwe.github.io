@@ -1,6 +1,13 @@
 ---
 title: Funke Mediengruppe
 description : "Berichterstattung über Uwe Thrum in der Funke Medien Gruppe TA/TLZ/OTZ"
+tags:
+- Thrum
+- linksammlung
+- Uwe Thrum
+- Funke
+- OTZ
+- TOTALZZ
 ---
 
 {{% notice note %}}

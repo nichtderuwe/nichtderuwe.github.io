@@ -1,6 +1,111 @@
 #<!-- <script defer type="text/javascript"  src="https://takeback-1-m5740961.deta.app/api/kit/ZH1YL6FXH58C4P6YFZAWQG" ></script> -->
 
 
+
+#### [TAT](https://ovh.github.io/tat/overview/) by OVH
+![TAT image](/images/showcase/tat.png?width=50pc)
+
+#### [Tshark.dev](https://tshark.dev) by Ross Jacobs
+![Tshark.dev image](/images/showcase/tshark_dev.png?width=50pc)
+
+#### [inteliver](https://docs.inteliver.com) by Amir Lavasani
+![docs.inteliver.com image](/images/showcase/inteliver_docs.png?width=50pc)
+
+
+
+
+Renders as:
+
+{{< tabs >}}
+{{% tab name="python" %}}
+```python
+print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="R" %}}
+```R
+> print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="Bash" %}}
+```Bash
+echo "Hello World!"
+```
+{{% /tab %}}
+{{< /tabs >}}
+
+Tab views with the same tabs that belong to the same group sychronize their selection:
+
+{{< tabs >}}
+{{% tab name="python" %}}
+```python
+print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="R" %}}
+```R
+> print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="Bash" %}}
+```Bash
+echo "Hello World!"
+```
+{{% /tab %}}
+{{< /tabs >}}
+
+## Config example
+
+	{{</* tabs groupId="config" */>}}
+	{{%/* tab name="json" */%}}
+	```json
+	{
+	  "Hello": "World"
+	}
+	```
+	{{%/* /tab */%}}
+	{{%/* tab name="XML" */%}}
+	```xml
+	<Hello>World</Hello>
+	```
+	{{%/* /tab */%}}
+	{{%/* tab name="properties" */%}}
+	```properties
+	Hello = World
+	```
+	{{%/* /tab */%}}
+	{{</* /tabs */>}}
+
+Renders as:
+
+{{< tabs groupId="config" >}}
+{{% tab name="json" %}}
+```json
+{
+  "Hello": "World"
+}
+```
+{{% /tab %}}
+{{% tab name="XML" %}}
+```xml
+<Hello>World</Hello>
+```
+{{% /tab %}}
+{{% tab name="properties" %}}
+```properties
+Hello = World
+```
+{{% /tab %}}
+{{< /tabs >}}
+
+{{% notice warning %}}
+When using tab views with different content sets, make sure to use a common `groupId` for equal sets but distinct
+`groupId` for different sets. The `groupId` defaults to `'default'`.  
+**Take this into account across the whole site!**  
+The tab selection is restored automatically based on the `groupId` and if it cannot find a tab item because it came
+ from the `'default'` group on a different page then all tabs will be empty at first.
+{{% /notice %}}
+
 {{%expand "Klicken um mehr zu lesen ?" %}}Yes !.{{% /expand%}}
 [Plus d'infos]({{%relref "cont/pages/_index.md"%}}) 
 
@@ -69,3 +174,10 @@ Le site est auomatiquement publié et hébergé par [Netlify](https://www.netlif
 #### [inteliver](https://docs.inteliver.com) by Amir Lavasani
 ![docs.inteliver.com image](/images/showcase/inteliver_docs.png?width=50pc)
 
+Mais c'est probablement une mauvaise idée. Tout le monde utilise le Markdown parce que c'est pur et simple à lire même lorsqu'il est affiché en texte brut. Vous devez éviter le HTML autant que possible pour garder le contenu simple.
+
+Cependant, pour éviter les limitations, Hugo a créé les [shortcodes](https://gohugo.io/extras/shortcodes/). Un shortcode est un bout de code (*snippet*) dans une page.
+
+**Hugo-theme-learn** fournit de multiple shortcodes en plus de ceux existant.
+
+{{%children style="h2" description="true" %}}

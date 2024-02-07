@@ -1,6 +1,26 @@
 ---
 title: "#NichtDer𝖀𝖂𝕰"
-deescription: "Info-Seite zu Uwe Thrum aka #NichtDerUwe und seinen Kontakten zu Reichsbürgern und Extremisten"
+description: "Info-Seite zu Uwe Thrum aka #NichtDerUwe und seinen Kontakten zu Reichsbürgern und Extremisten"
+tags:
+- AfD
+- Björn Höcke
+- Christan Klar
+- Extremismus
+- Diagramm
+- Neonazis
+- Fackelumzüge
+- Frank Haußner
+- Hartmut Bergner
+- Höcke
+- Martin Kohlmann
+- NichtderUwe
+- #NichtDerUwe
+- Reichsbbürger
+- Saale-Orla Kreis
+- Terrorgruppe Reuß
+- Thrum
+- Torben Braga
+- Uwe Thrum
 ---
 
 # Hallo, ich bin #NichtDerUwe

@@ -1,6 +1,26 @@
 ---
 title: "#NotThe𝖀𝖂𝕰 #NichtDer𝖀𝖂𝕰"
-deescription: "Info-Page about AfD-Politician Uwe Thrum aka #NotTheUwe and his contacts to far-right extremists and so-called Reichsbürger activists"
+description: "Info-Page about AfD-Politician Uwe Thrum aka #NotTheUwe and his contacts to far-right extremists and so-called Reichsbürger activists"
+tags:
+- AfD
+- Björn Höcke
+- Christan Klar
+- Extremismus
+- Diagramm
+- Neonazis
+- Fackelumzüge
+- Frank Haußner
+- Hartmut Bergner
+- Höcke
+- Martin Kohlmann
+- NichtderUwe
+- #NichtDerUwe
+- Reichsbbürger
+- Saale-Orla Kreis
+- Terrorgruppe Reuß
+- Thrum
+- Torben Braga
+- Uwe Thrum
 ---
 
 
