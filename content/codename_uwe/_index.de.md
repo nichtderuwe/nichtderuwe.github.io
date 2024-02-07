@@ -51,7 +51,7 @@ Damit ist Höcke endgültig dazu übergegangen, [Forderungen aus dem NSU/THS Kom
 Im Anschluss versprach Höcke, man werde "aus dem Osten Heraus die Republik verändern, zum guten verändern", um die Rede zu beenden mit den Worten
 > **[es lebe Thüringen, es lebe unser Deutsches Vaterland, es lebe das wahre Europa](https://youtu.be/jOvt56iuD-w?si=CR9LRzhGzEkYK2wJ&t=3648)** (Björn Höcke, 01/2024)
 
-( #DemGoldnenSternBleibichfern )
+( #DemGoldnenSternBleibIchFern )
 
 #### [Eine Übersicht zum Netzwerk von Uwe Thrum gibt es hier im Diagramm ]({{%relref "struktur/_index.md"%}}) 
 
