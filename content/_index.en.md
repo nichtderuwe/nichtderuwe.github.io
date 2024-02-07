@@ -17,7 +17,7 @@ The “worst thing” was that AfD number 1 Höcke was desperately looking for a
 {{< /rawhtml >}}
 {{% /notice %}}
 
-{{% notice warning %}}[The district office decommissioned the then mayor of Lobenstein, Mr. Weigelt, after the attack on journalists.](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/saale-orla/bad-lobenstein-buergermeister-weigelt-dienst-enthoben-100.html)
+{{% notice warning %}}[The district office decommissioned the back-then mayor of Lobenstein, Mr. Weigelt, after the attack on journalists.](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/saale-orla/bad-lobenstein-buergermeister-weigelt-dienst-enthoben-100.html)
 Whether the 𝖀𝖂𝕰 Thrum, who was present during the incident, would have carried out this remains questionable.
 {{% /notice %}}
 
