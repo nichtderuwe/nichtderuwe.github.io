@@ -5,23 +5,7 @@ pre: "<b>5. </b>"
 weight: 23
 tags:
 - AfD
-- Björn Höcke
-- Christan Klar
-- Extremismus
-- Diagramm
-- Neonazis
-- Fackelumzüge
-- Frank Haußner
-- Hartmut Bergner
-- Höcke
-- Martin Kohlmann
-- NichtderUwe
-- #NichtDerUwe
-- Reichsbbürger
-- Saale-Orla Kreis
-- Terrorgruppe Reuß
 - Thrum
-- Torben Braga
 - Uwe Thrum
 - Screenshots
 ---

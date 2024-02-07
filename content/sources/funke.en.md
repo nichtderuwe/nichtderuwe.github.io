@@ -3,7 +3,7 @@ title: Funke Mediengruppe
 description : "Berichterstattung über Uwe Thrum in der Funke Medien Gruppe TA/TLZ/OTZ"
 tags:
 - Thrum
-- linksammlung
+- Linksammlung
 - Uwe Thrum
 - Funke
 - OTZ

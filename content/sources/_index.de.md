@@ -4,8 +4,7 @@ title: Quellen
 pre: "<b>4. </b>"
 weight: 18
 tags:
-- Thrum
-- linksammlung
+- Linksammlung
 - Uwe Thrum
 ---
 

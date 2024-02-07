@@ -23,7 +23,7 @@ tags:
 - Thrum
 - Torben Braga
 - Uwe Thrum
-- Hallo Oberlanf
+- Hallo Oberland
 ---
 
 Uwe Thrum hat den ursprünglichen Post zu seiner Absage der finalen Podiumsdiskussion nachträglich gelöscht.
