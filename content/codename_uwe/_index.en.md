@@ -20,7 +20,7 @@ mister Thrum became mixture of a mobile loudspeaker and helicopter.
 Examples include Höcke, Christian Klar and the Reich activist Haußner...𝖀𝖂𝕰 Thrum also likes to take photos with Andreas Kalbitz.
 
 When he chatted with the terrorism accused Reichsbürger Reuss and the back-then mayor Weigelt at the town festival in Bad Lobenstein,
-the latter, in a fit of "Volkszorn", mayoralized a journalist to ground while in office.
+[the latter, in a fit of "Volkszorn", mayoralized a journalist to ground while in office.](https://www.deutschlandfunk.de/buergermeister-greift-journalisten-an-in-bad-lobenstein-100.html)
 
 𝖀𝖂𝕰 Thrums “top performances” include:
 

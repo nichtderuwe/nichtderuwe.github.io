@@ -20,7 +20,7 @@ hat sich Herr Thrum zum mobilen Lautsprecher helikoptert.
 exemplarisch zu nennen sind Höcke, Christian Klar und der Reichs-Aktivist Haußner ... Fotos mit Andreas Kalbitz macht 𝖀𝖂𝕰 Thrum auch gern.
 
 Als er zum Stadfest in Bad Lobenstein mit Reichsbürger Reuss und dem damaligen Bürgermeister Weigelt plauschte, 
-hat letzerer in einem Anfall von Volkszorn im Amt einen Journalisten zu Boden gebürgermeistert.
+[hat letzerer in einem Anfall von Volkszorn im Amt einen Journalisten zu Boden gebürgermeistert.](https://www.deutschlandfunk.de/buergermeister-greift-journalisten-an-in-bad-lobenstein-100.html)
  
 
 Zu seinen "Höchstleistungen" gehören u.a.:
