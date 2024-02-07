@@ -13,8 +13,8 @@ he was once a keyboard player in the cover band A9,
 which was only renamed "A9 - Vollgas" after he left.
 
 During the time of the corona pandemic,
-when  Unvaccinated-𝖀𝖂𝕰 made it till quarantine 2022 geschafft hat,
-hat sich Herr Thrum zum mobilen Lautsprecher helikoptert.
+when  Unvaccinated-𝖀𝖂𝕰 made it till quarantine 2022,
+mister Thrum became mixture of a mobile loudspeaker and helicopter.
 
 𝖀𝖂𝕰 Thrum advertises with his good contacts to right-wing activists and extremists.
 Examples include Höcke, Christian Klar and the Reich activist Haußner...𝖀𝖂𝕰 Thrum also likes to take photos with Andreas Kalbitz.
@@ -38,7 +38,7 @@ the latter, in a fit of "Volkszorn", mayoralized a journalist to ground while in
 
 [When Mr. Thrum was not invited to an election forum in January 2024, he simply organized two “walks” with 250 and 300 participants in Neustadt/Orla and Pößneck, during which he called for Erfurt to be expanded into a central deportation airport.](https://www.otz.de/regionen/saale-orla-kreis/article241387046/Beifall-ueber-zentralen-Abschiebe-Flughafen.html)
 
-[The "duel" for the runoff election was quickly canceled by a video message and even deleted the first post on "Hello Oberland" in order to insert the line "OTZ rejection granted" and change the headline.](/de/media/hallo-oberland-thrum-deletion/)
+[The "duel" for the runoff election was quickly canceled by a video message and foreigner-fearing 𝖀𝖂𝕰   even deleted the first post on "Hello Oberland" in order to insert the line "OTZ rejection granted" and change the headline.](/de/media/hallo-oberland-thrum-deletion/)
 
 ---
 
