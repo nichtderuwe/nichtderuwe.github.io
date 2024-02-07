@@ -3,6 +3,7 @@ date: 2016-04-09T16:50:16+02:00
 title: Codename Uwe
 pre: "<b>0. </b>"
 weight: 11
+deescription: "Text-Info about AfD-Politician Uwe Thrum aka #NotTheUwe and his contacts to far-right extremists and so-called Reichsbürger activists"
 ---
 
 The last two Uwes were something like a [damage to the thuringian state's reputation.](https://de.wikipedia.org/wiki/Nationalsozialistischer_Untergrund)
@@ -76,7 +77,7 @@ Here are a few more of the best 𝖀𝖂𝕰 Thrum quotes:
 
 ---
 
-{{% notice warning %}}The district office decommissioned the then mayor of Lobenstein, Mr. Weigelt, after the attack on journalists.](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/saale-orla/bad-lobenstein-buergermeister-weigelt-dienst-enthoben-100.html)
+{{% notice warning %}}[The district office decommissioned the then mayor of Lobenstein, Mr. Weigelt, after the attack on journalists.](https://www.mdr.de/nachrichten/thueringen/ost-thueringen/saale-orla/bad-lobenstein-buergermeister-weigelt-dienst-enthoben-100.html)
 Whether the 𝖀𝖂𝕰 Thrum who was present during the incident would have carried out this remains questionable.
 {{% /notice %}}
 
