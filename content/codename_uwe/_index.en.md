@@ -13,14 +13,11 @@ tags:
 - Fackelumzüge
 - Frank Haußner
 - Hartmut Bergner
-- Höcke
 - Martin Kohlmann
-- NichtderUwe
-- #NichtDerUwe
-- Reichsbbürger
+- NichtDerUwe
+- Reichsbürger
 - Saale-Orla Kreis
 - Terrorgruppe Reuß
-- Thrum
 - Torben Braga
 - Uwe Thrum
 ---
@@ -31,12 +28,11 @@ But this 𝖀𝖂𝕰 is different,
 he was once a keyboard player in the cover band A9,
 which was only renamed "A9 - Vollgas" after he left.
 
-During the time of the corona pandemic,
-when  Unvaccinated-𝖀𝖂𝕰 made it till quarantine 2022,
+[During the time of the corona pandemic ,when Unvaccinated-𝖀𝖂𝕰 took it till quarantine in 2022,](https://hallooberland.de/2022/03/uwe-thrum-ralf-kalich-und-polizei-chef-lenk-fehlen-bei-podiumsdiskussion-in-schleiz-bemerkenswerte-aussagen-von-amtsarzt-dr-bossert/)
 mister Thrum became mixture of a mobile loudspeaker and helicopter.
 
 𝖀𝖂𝕰 Thrum advertises with his good contacts to right-wing activists and extremists.
-Examples include Höcke, Christian Klar and the Reich activist Haußner...𝖀𝖂𝕰 Thrum also likes to take photos with Andreas Kalbitz.
+Examples include Björn Höcke, Christian Klar and the Reich activist Haußner...𝖀𝖂𝕰 Thrum also likes to take photos with Andreas Kalbitz.
 
 When Thrum chatted with the [terrorism accused Reichsbürger Reuss](https://de.wikipedia.org/wiki/Heinrich_XIII._Prinz_Reu%C3%9F) and the [back-then mayor Weigelt at the town festival in Bad Lobenstein](https://rechercheportaljenashk.noblogs.org/post/2024/01/04/von-prinzens-gnaden/),
 [the latter, in a fit of "Volkszorn", mayoralized a journalist to ground while in office.](https://www.deutschlandfunk.de/buergermeister-greift-journalisten-an-in-bad-lobenstein-100.html)

@@ -6,7 +6,6 @@ weight: 23
 tags:
 - AfD
 - Saale-Orla Kreis
-- Thrum
 - Uwe Thrum
 - Screenshots
 - Medien

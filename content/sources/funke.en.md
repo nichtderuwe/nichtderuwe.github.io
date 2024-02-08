@@ -1,11 +1,10 @@
 ---
-title: Funke Mediengruppe
-description : "Berichterstattung über Uwe Thrum in der Funke Medien Gruppe TA/TLZ/OTZ"
+title: Funke Media Group
+description : "News and Reports about Uwe Thrum from FUNKE Media Group which runs TA/TLZ/OTZ"
 tags:
-- Thrum
 - Linksammlung
 - Uwe Thrum
-- Funke
+- Funke Mediengruppe
 - OTZ
 - TOTALZZ
 ---

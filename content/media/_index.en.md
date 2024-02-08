@@ -5,7 +5,6 @@ pre: "<b>5. </b>"
 weight: 23
 tags:
 - AfD
-- Thrum
 - Uwe Thrum
 - Screenshots
 ---

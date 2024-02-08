@@ -79,17 +79,18 @@
                 {{ end }}
                 {{$toc := (and (not .Params.disableToc) (not .Params.chapter))}}
                 <div id="breadcrumbs" itemscope="" itemtype="http://schema.org/Breadcrumb">
-            <span id="trans-link" align="right"  >
-                Version:
-                  {{ range $.AllTranslations }}
-                         <span> <a class='{{if eq .Lang $.Lang}} selected {{end}}' href='{{.RelPermalink}}'> {{ .Language.LanguageName }} </a></span>
-                  {{ end }}
-            </span>
                     <span id="sidebar-toggle-span">
                         <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
                           <i class="fas fa-bars"></i>
                         </a>
                     </span>
+                    <span id="trans-link" align="right"  >
+                        Version:
+                          {{ range $.AllTranslations }}
+                                 <span> <a class='{{if eq .Lang $.Lang}} selected {{end}}' href='{{.RelPermalink}}'> {{ .Language.LanguageName }} </a></span>
+                          {{ end }}
+                    </span>
+
                   {{ if $toc }}
                   <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
                   {{ end }}

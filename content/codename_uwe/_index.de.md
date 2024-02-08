@@ -13,14 +13,11 @@ tags:
 - Fackelumzüge
 - Frank Haußner
 - Hartmut Bergner
-- Höcke
 - Martin Kohlmann
-- NichtderUwe
-- #NichtDerUwe
-- Reichsbbürger
+- NichtDerUwe
+- Reichsbürger
 - Saale-Orla Kreis
 - Terrorgruppe Reuß
-- Thrum
 - Torben Braga
 - Uwe Thrum
 ---
@@ -32,7 +29,7 @@ er war einst Keyboarder in der Coverband A9,
 die sich erst nach seinem Ausscheiden in "A9 - Vollgas" umbenannte.
 
 Über die Zeit der Corona-Pandemie,
-in der Ungeimpft-𝖀𝖂𝕰 es bis zur Quarantäne 2022 geschafft hat,
+[in der Ungeimpft-𝖀𝖂𝕰 es bis zur Quarantäne 2022 geschafft hat,](https://hallooberland.de/2022/03/uwe-thrum-ralf-kalich-und-polizei-chef-lenk-fehlen-bei-podiumsdiskussion-in-schleiz-bemerkenswerte-aussagen-von-amtsarzt-dr-bossert/)
 hat sich Herr Thrum zum mobilen Lautsprecher helikoptert.
 
 𝖀𝖂𝕰 Thrum wirbt mit seinen guten Kontakten zu rechten Aktivisten und Extremisten,

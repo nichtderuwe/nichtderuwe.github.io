@@ -9,12 +9,9 @@ tags:
 - Neonazis
 - Fackelumzüge
 - Götz Kubitschek
-- Höcke
-- NichtderUwe
-- #NichtDerUwe
-- Reichsbbürger
+- NichtDerUwe
+- Reichsbürger
 - Saale-Orla Kreis
-- Thrum
 - Torben Braga
 - Uwe Thrum
 ---
