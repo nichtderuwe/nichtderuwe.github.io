@@ -54,7 +54,7 @@
             <span id="trans-link"   >
                 Version:
                   {{ range $.AllTranslations }}
-                          <a class='{{if eq .Lang $.Lang}} selected {{end}}' href='{{.RelPermalink}}'> {{ .Language.LanguageName }} </a>
+                         <span> <a class='{{if eq .Lang $.Lang}} selected {{end}}' href='{{.RelPermalink}}'> {{ .Language.LanguageName }} </a></span>
                   {{ end }}
             </span>
             </div>
@@ -82,7 +82,7 @@
             <span id="trans-link" align="right"  >
                 Version:
                   {{ range $.AllTranslations }}
-                          <a class='{{if eq .Lang $.Lang}} selected {{end}}' href='{{.RelPermalink}}'> {{ .Language.LanguageName }} </a>
+                         <span> <a class='{{if eq .Lang $.Lang}} selected {{end}}' href='{{.RelPermalink}}'> {{ .Language.LanguageName }} </a></span>
                   {{ end }}
             </span>
                     <span id="sidebar-toggle-span">
