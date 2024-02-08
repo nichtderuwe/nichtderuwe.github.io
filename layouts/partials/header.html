@@ -47,6 +47,21 @@
 
         </div>
         <div class="padding highlightable">
+              {{if .IsHome}}
+            <div>
+            <div id="top-bar-home">
+                <div align="right">
+            <span id="trans-link"   >
+                Version:
+                  {{ range $.AllTranslations }}
+                          <a class='{{if eq .Lang $.Lang}} selected {{end}}' href='{{.RelPermalink}}'> {{ .Language.LanguageName }} </a>
+                  {{ end }}
+            </span>
+            </div>
+            </div>
+            </div>
+              {{ end }}
+
               {{if not .IsHome}}
               <div>
                 <div id="top-bar">
