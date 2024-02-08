@@ -43,7 +43,9 @@
   <body class="" data-url="{{ .RelPermalink }}">
     {{ partial "menu.html" . }}
         <section id="body">
-        <div id="overlay"></div>
+        <div id="overlay">
+
+        </div>
         <div class="padding highlightable">
               {{if not .IsHome}}
               <div>
@@ -62,6 +64,12 @@
                 {{ end }}
                 {{$toc := (and (not .Params.disableToc) (not .Params.chapter))}}
                 <div id="breadcrumbs" itemscope="" itemtype="http://schema.org/Breadcrumb">
+            <span id="trans-link" align="right"  >
+                Version:
+                  {{ range $.AllTranslations }}
+                          <a class='{{if eq .Lang $.Lang}} selected {{end}}' href='{{.RelPermalink}}'> {{ .Language.LanguageName }} </a>
+                  {{ end }}
+            </span>
                     <span id="sidebar-toggle-span">
                         <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
                           <i class="fas fa-bars"></i>
