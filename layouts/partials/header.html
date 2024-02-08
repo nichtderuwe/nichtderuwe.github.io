@@ -52,7 +52,8 @@
             <div id="top-bar-home">
                 <div align="right">
             <span id="trans-link"   >
-                Version:
+                <!-- Version: -->
+                <i class='fas fa-globe' style='color:red'></i>
                   {{ range $.AllTranslations }}
                          <span> <a class='{{if eq .Lang $.Lang}} selected {{end}}' href='{{.RelPermalink}}'> {{ .Language.LanguageName }} </a></span>
                   {{ end }}
@@ -85,7 +86,8 @@
                         </a>
                     </span>
                     <span id="trans-link" align="right"  >
-                        Version:
+                        <!-- Version: -->
+                        <i class='fas fa-globe' style='color:red'></i>
                           {{ range $.AllTranslations }}
                                  <span> <a class='{{if eq .Lang $.Lang}} selected {{end}}' href='{{.RelPermalink}}'> {{ .Language.LanguageName }} </a></span>
                           {{ end }}
