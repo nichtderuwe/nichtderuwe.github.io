@@ -17,6 +17,7 @@ scJsHost+
 "statcounter.com/counter/counter.js'></"+"script>");
 </script>
 <noscript> -->
+<div id="counterdiv">
 <div class="statcounter"><a title="Web Analytics"
 href="https://statcounter.com/" target="_blank"><img
 class="statcounter"
@@ -32,8 +33,86 @@ referrerPolicy="no-referrer-when-downgrade"></a></div>
 
 <a href="https://www.flagcounter.me/details/eqt"><img src="https://www.flagcounter.me/eqt/" alt="Flag Counter"  loading="lazy" ></a>
 <br>
- <a href='https://www.free-counters.org/'>www.Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=2beab88b650c81477c3cf95aac6415261a1236d4'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1131404/t/2"></script>
+<span visibility="hidden" id="freevisitorcounterlink" ><a href='https://www.free-counters.org/'>www.Free-Counters.org</a></span>
+<span id="freevisitorcounterspan" ></span>
+<script>
+//console.log("asyncloader.def")
+//async loader 
+class Script {
+    constructor(path, dependencyOrder) {
+        this.path = path;
+        this.dependencyOrder = dependencyOrder;
+    }
+}
+class ScriptLoader {
+    constructor() {
+        this.scripts = [];
+
+    }
+    addScript(script) {
+        console.log("adding script"+ script)
+        const exists = this.scripts.find( s => s.path.toLowerCase() === script.path.toLowerCase());
+        if (!exists) {
+            this.scripts.push(script);
+        }
+    }
+    async loadScripts() {
+        if (Array.isArray(this.scripts)) {
+            const orderedScripts = this.orderScriptsByDependency();
+            let scriptsLoaded = false;
+            let counter = 0;
+            while (!scriptsLoaded) {
+                const _script = orderedScripts[counter]
+                await this.loadScript(_script, _script.dependencyOrder > -1);
+                counter += 1;
+                scriptsLoaded = counter === orderedScripts.length;
+            }
+        }
+    }
+    async loadScript(script, waitToLoad) {
+        return new Promise( (resolve, reject) => {
+            const scriptTag = document.createElement('script');
+            scriptTag.src = script.path;
+            if (waitToLoad) {
+                scriptTag.async = true;
+                document.body.appendChild(scriptTag);
+                scriptTag.onload = () => { resolve(); }
+            } else {
+                document.body.appendChild(scriptTag);
+                resolve();
+            }
+        } );
+    }
+    orderScriptsByDependency() {
+        if (Array.isArray(this.scripts)) {
+            return this.scripts.sort( (a, b) => {
+                return a.dependencyOrder - b.dependencyOrder;
+            });
+        }
+        return null;
+    }
+}
+//end async loader def
+
+class IndexView {
+    constructor() {
+        console.log("asyncloader.construct")
+        this.loader = new ScriptLoader();
+        this.init();
+    }
+    async init() {
+        console.log("asyncloader.init")
+        this.loader.addScript(new Script('https://www.freevisitorcounters.com/auth.php?id=2beab88b650c81477c3cf95aac6415261a1236d4', 0));
+        //this.loader.addScript(new Script('https://www.freevisitorcounters.com/en/home/counter/1131404/t/2"', 1));
+        await this.loader.loadScripts();
+        document.getElementById("freevisitorcounterspan").innerHTML='<a href="https://www.freevisitorcounters.com/en/home/stats/id/1131404" target="_blank"><br><img src="https://www.freevisitorcounters.com/en/counter/render/1131404/t/2" border="0" loading="lazy" class="counterimg"></a>'
+    }
+}
+let user = new IndexView();
+</script> 
+</div>
+<!-- <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=2beab88b650c81477c3cf95aac6415261a1236d4'></script> -->
+<!-- <script  type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1131404/t/2"></script> -->
 <br>
 
 

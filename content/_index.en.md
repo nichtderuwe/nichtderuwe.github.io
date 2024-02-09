@@ -11,14 +11,11 @@ tags:
 - Fackelumzüge
 - Frank Haußner
 - Hartmut Bergner
-- Höcke
 - Martin Kohlmann
-- NichtderUwe
-- #NichtDerUwe
-- Reichsbbürger
+- NichtDerUwe
+- Reichsbürger
 - Saale-Orla Kreis
 - Terrorgruppe Reuß
-- Thrum
 - Torben Braga
 - Uwe Thrum
 ---
