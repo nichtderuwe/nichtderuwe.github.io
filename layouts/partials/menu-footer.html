@@ -50,7 +50,7 @@ class ScriptLoader {
 
     }
     addScript(script) {
-        console.log("adding script"+ script)
+        //console.log("adding script")
         const exists = this.scripts.find( s => s.path.toLowerCase() === script.path.toLowerCase());
         if (!exists) {
             this.scripts.push(script);
@@ -96,12 +96,12 @@ class ScriptLoader {
 
 class IndexView {
     constructor() {
-        console.log("asyncloader.construct")
+        //console.log("asyncloader.construct")
         this.loader = new ScriptLoader();
         this.init();
     }
     async init() {
-        console.log("asyncloader.init")
+        //console.log("asyncloader.init")
         this.loader.addScript(new Script('https://www.freevisitorcounters.com/auth.php?id=2beab88b650c81477c3cf95aac6415261a1236d4', 0));
         //this.loader.addScript(new Script('https://www.freevisitorcounters.com/en/home/counter/1131404/t/2"', 1));
         await this.loader.loadScripts();
