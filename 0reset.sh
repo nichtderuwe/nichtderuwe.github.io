@@ -1,5 +1,5 @@
 rm -rf .git .gitmodules themes/hugo-theme-learn/
-
+#https://nichtderuwe.nichtderuwe.workers.dev
 git init
 git config user.email "157626686+nichtderuwe@users.noreply.github.com"
 git config user.name "#NichtDerUwe https://nichtderuwe.github.io"
