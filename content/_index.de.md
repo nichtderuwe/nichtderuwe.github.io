@@ -4,12 +4,16 @@ description: "Info-Seite zu Uwe Thrum aka #NichtDerUwe und seinen Kontakten zu R
 tags:
 - AfD
 - Björn Höcke
+- Bernd Höcke
 - Christan Klar
 - Extremismus
 - Diagramm
 - Neonazis
 - Fackelumzüge
+- Fackelmarsch
+- Fackelmärssche
 - Frank Haußner
+- Andreas Kalbitz
 - Hartmut Bergner
 - Martin Kohlmann
 - NichtDerUwe
