@@ -7,19 +7,29 @@ deescription: "Text-Info about AfD-Politician Uwe Thrum aka #NotTheUwe and his c
 tags:
 - AfD
 - Björn Höcke
+- Bernd Höcke
 - Christan Klar
-- Extremismus
+- Extremismu
+- Diagram
 - Neonazis
 - Fackelumzüge
+- Fackelmarsch
+- Torch march
 - Frank Haußner
+- Andreas Kalbitz
 - Hartmut Bergner
 - Martin Kohlmann
 - NichtDerUwe
 - Reichsbürger
+- Reich citizen
+- Reich citizens
+- Reichs citizens
 - Saale-Orla Kreis
-- Terrorgruppe Reuß
+- Terror group Reuß
 - Torben Braga
 - Uwe Thrum
+- enemies of the constitution
+- historical revisionists
 ---
 
 The last two Uwes were something like a [damage to the thuringian state's reputation.](https://de.wikipedia.org/wiki/Nationalsozialistischer_Untergrund)
