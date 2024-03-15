@@ -6,22 +6,27 @@ tags:
 - Björn Höcke
 - Bernd Höcke
 - Christan Klar
-- Extremismus
-- Diagramm
+- Extremismu
+- Diagram
 - Neonazis
 - Fackelumzüge
 - Fackelmarsch
-- Fackelmärssche
+- Torch march
 - Frank Haußner
 - Andreas Kalbitz
 - Hartmut Bergner
 - Martin Kohlmann
 - NichtDerUwe
 - Reichsbürger
+- Reich citizen
+- Reich citizens
+- Reichs citizens
 - Saale-Orla Kreis
-- Terrorgruppe Reuß
+- Terror group Reuß
 - Torben Braga
 - Uwe Thrum
+- enemies of the constitution
+- historical revisionists
 ---
 
 
