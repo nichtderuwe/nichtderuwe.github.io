@@ -1,6 +1,6 @@
 ---
 date: 2016-04-09T16:50:16+02:00
-title: Loeschung des Original-Post des Stichwahl-Duells durch Thrum
+title: Loeschung des Original-Post des Stichwahl-Duells durch Thrum oder Saale-Info-TV
 pre: "<b>1. </b>"
 weight: 10
 tags:
@@ -23,11 +23,11 @@ tags:
 - Hallo Oberland
 ---
 
-Uwe Thrum hat den ursprünglichen Post zu seiner Absage der finalen Podiumsdiskussion nachträglich gelöscht.
+Uwe Thrum oder Saale-Info-TV hat den ursprünglichen Post zu seiner Absage der finalen Podiumsdiskussion nachträglich gelöscht.
 
-In seinem zweiten Post fügte er den Satz "OTZ Absage erteilt",
+In einem zweiten Post fügte "jemand" den Satz "OTZ Absage erteilt" hinzu,
 
-des weiteren änderte er die URL und Überschrif,
+des weiteren änderte "man" die URL und Überschrift,
 von "Absage der Podiumsdiskussion in Schleiz" zu "Uwe Thrum sagt Podiumsdiskussion in Schleiz ab"
 
 Blöd nur das google cache und der Rest vom Internet nicht vergessen
