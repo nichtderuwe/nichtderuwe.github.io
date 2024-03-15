@@ -4,12 +4,16 @@ description: "Info-Page about AfD-Politician Uwe Thrum aka #NotTheUwe and his co
 tags:
 - AfD
 - Björn Höcke
+- Bernd Höcke
 - Christan Klar
 - Extremismus
 - Diagramm
 - Neonazis
 - Fackelumzüge
+- Fackelmarsch
+- Fackelmärssche
 - Frank Haußner
+- Andreas Kalbitz
 - Hartmut Bergner
 - Martin Kohlmann
 - NichtDerUwe
