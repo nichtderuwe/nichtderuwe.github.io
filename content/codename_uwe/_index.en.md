@@ -29,7 +29,7 @@ tags:
 - Torben Braga
 - Uwe Thrum
 - enemies of the constitution
-- historical revisionists
+- revisionists
 ---
 
 The last two Uwes were something like a [damage to the thuringian state's reputation.](https://de.wikipedia.org/wiki/Nationalsozialistischer_Untergrund)
