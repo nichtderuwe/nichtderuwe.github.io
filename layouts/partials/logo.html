@@ -1,7 +1,8 @@
 <a id="logo" href='{{ (cond (and (ne .Site.Params.landingPageURL nil) (.Site.IsMultiLingual)) .Site.Params.landingPageURL "/") }}'>
 <!-- <img src="https://i.imgflip.com/8cido9.jpg" > -->
 <picture>
-    <source srcset="https://nichtderuwe-ist-doch-logo.deno.dev/nichtderuwe.github.io{{ .RelPermalink | relURL }}nichtderuwe.gif" />
-    <img alt="#NichtDerUwe" style="border-radius: 25px;" src="https://nichtderuwe-ist-doch-logo.deno.dev/nichtderuwe.github.io{{ .RelPermalink | relURL }}nichtderuwe.webp" />
+    <source srcset="https://nichtderuwe-ist-doch-logo.deno.dev/nichtderuwe.github.io{{ .RelPermalink | relURL }}nichtderuwe.webp" type="image/webp" >
+    <source srcset="https://nichtderuwe-ist-doch-logo.deno.dev/nichtderuwe.github.io{{ .RelPermalink | relURL }}nichtderuwe.gif"  type="image/gif"  >
+    <img alt="#NichtDerUwe" style="border-radius: 25px;" src="https://nichtderuwe-ist-doch-logo.deno.dev/nichtderuwe.github.io{{ .RelPermalink | relURL }}nichtderuwe.webp" >
 </picture>
 </a>
