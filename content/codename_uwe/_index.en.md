@@ -9,8 +9,7 @@ tags:
 - Björn Höcke
 - Bernd Höcke
 - Christan Klar
-- Extremismu
-- Diagram
+- Extremism
 - Neonazis
 - Fackelumzüge
 - Fackelmarsch
@@ -20,7 +19,7 @@ tags:
 - Hartmut Bergner
 - Martin Kohlmann
 - NichtDerUwe
-- Reichsbürger
+- Reichsbuerger
 - Reich citizen
 - Reich citizens
 - Reichs citizens
@@ -57,7 +56,7 @@ When Thrum chatted with the [terrorism accused Reichsbürger Reuss](https://de.w
 
 * [Continuing demandas for Rural doctors and cycle paths that have already been addressed and turned out to be unworkable or pointless](https://www.otz.de/regionen/saale-orla-kreis/article241505318/Wahlversprechen-die-Abrechnung-vor-der-Stichwahl-im-Saale-Orla-Kreis.html)
 
-* [Instead of attending the runoff election podium for a duell, Thrum gives an interview entitled "Communist CDU or Freedom?"](https://youtu.be/0JRohdutdGM)
+* [Instead of attending the runoff election podium for a duel, Thrum gives an interview entitled "Communist CDU or Freedom?"](https://youtu.be/0JRohdutdGM)
 
 * [Wanting to take the oath of office on the constitution while seeking proximity to Reich citizens and taking part in marches with the German flag turned upside down, which is a symbol of the rejection of the free-democratic basic order in the Federal Republic](https://www.otz.de/regionen/saale-orla-kreis/article241477038/AfD-Landratskandidat-Uwe-Thrum-verweigert-sich-dem-oeffentlichen-Wahl-Duell.html)
 
@@ -65,7 +64,7 @@ When Thrum chatted with the [terrorism accused Reichsbürger Reuss](https://de.w
 
 [When Mr. Thrum was not invited to an election forum in January 2024, he simply organized two “walks” with 250 and 300 participants in Neustadt/Orla and Pößneck, during which he called for Erfurt to be expanded into a central deportation airport.](https://www.otz.de/regionen/saale-orla-kreis/article241387046/Beifall-ueber-zentralen-Abschiebe-Flughafen.html)
 
-[The "duel" for the runoff election was quickly canceled by a video message and foreigner-fearing 𝖀𝖂𝕰   even deleted the first post on "Hello Oberland" in order to insert the line "OTZ rejection granted" and change the headline.](/de/media/hallo-oberland-thrum-deletion/)
+[The "duel" for the runoff election was quickly canceled by a video message and foreigner-fearing 𝖀𝖂𝕰   even deleted ( or let the plaform delete ) the first post on "Saale Info TV" in order to insert the line "OTZ rejection granted" and change the headline.](/de/media/saale-info-thrum-deletion/)
 
 ---
 

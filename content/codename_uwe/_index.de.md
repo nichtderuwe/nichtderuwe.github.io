@@ -7,19 +7,26 @@ deescription: "Text-Info zu Uwe Thrums Extremismusverbindungen"
 tags:
 - AfD
 - Björn Höcke
+- Bernd Höcke
 - Christan Klar
 - Extremismus
 - Neonazis
 - Fackelumzüge
+- Fackelmarsch
 - Frank Haußner
+- Andreas Kalbitz
 - Hartmut Bergner
 - Martin Kohlmann
 - NichtDerUwe
 - Reichsbürger
+- Reichsbuerger
 - Saale-Orla Kreis
-- Terrorgruppe Reuß
+- Terror group Reuß
 - Torben Braga
 - Uwe Thrum
+- Verfassungsfeinde
+- Geschichtsrevisionismus
+- Corona Leugner
 ---
 
 Schon die beiden letzten Uwes waren so etwas wie eine [Rufschädigung für das Bundesland.](https://de.wikipedia.org/wiki/Nationalsozialistischer_Untergrund)
@@ -57,7 +64,7 @@ Zu seinen "Höchstleistungen" gehören u.a.:
 
 [Als Herr Thrum im Januar 2024 zu einem Wahlforum nicht eingeladen wurde, hat er einfach zwei "Spaziergänge" mit 250 und 300 Teilnehmern in Neustadt/Orla und Pößneck veranstaltet, bei denen er forderte Erfurt zum zentralen Abschiebeflughafen auszubauen.](https://www.otz.de/regionen/saale-orla-kreis/article241387046/Beifall-ueber-zentralen-Abschiebe-Flughafen.html)
 
-[Das "Duell" zur Stichwahl hat Überfremdungsangst-𝖀𝖂𝕰 kurzerhand per Videobotschaft abgesagt, und den ersten Post bei "Hallo Oberland" sogar noch gelöscht, um die Zeile "OTZ Absage erteilt" einzufügen und die Überschrift zu ändern.](/de/media/hallo-oberland-thrum-deletion/)
+[Das "Duell" zur Stichwahl hat Überfremdungsangst-𝖀𝖂𝕰 kurzerhand per Videobotschaft abgesagt, und den ersten Post bei "Saale Info TV" sogar noch gelöscht ( oder löschen lassen ), um die Zeile "OTZ Absage erteilt" einzufügen und die Überschrift zu ändern.](/de/media/saale-info-thrum-deletion/)
 
 ---
 

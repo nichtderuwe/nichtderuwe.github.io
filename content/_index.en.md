@@ -6,8 +6,7 @@ tags:
 - Björn Höcke
 - Bernd Höcke
 - Christan Klar
-- Extremismu
-- Diagram
+- Extremism
 - Neonazis
 - Fackelumzüge
 - Fackelmarsch
@@ -17,7 +16,7 @@ tags:
 - Hartmut Bergner
 - Martin Kohlmann
 - NichtDerUwe
-- Reichsbürger
+- Reichsbuerger
 - Reich citizen
 - Reich citizens
 - Reichs citizens

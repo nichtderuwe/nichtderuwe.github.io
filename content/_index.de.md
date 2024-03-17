@@ -7,22 +7,23 @@ tags:
 - Bernd Höcke
 - Christan Klar
 - Extremismus
-- Diagramm
 - Neonazis
 - Fackelumzüge
 - Fackelmarsch
-- Fackelmärssche
 - Frank Haußner
 - Andreas Kalbitz
 - Hartmut Bergner
 - Martin Kohlmann
 - NichtDerUwe
 - Reichsbürger
+- Reichsbuerger
 - Saale-Orla Kreis
-- Terrorgruppe Reuß
+- Terror group Reuß
 - Torben Braga
 - Uwe Thrum
 - Verfassungsfeinde
+- Geschichtsrevisionismus
+- Corona Leugner
 ---
 
 # Hallo, ich bin #NichtDerUwe
