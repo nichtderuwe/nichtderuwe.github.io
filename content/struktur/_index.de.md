@@ -6,21 +6,26 @@ weight: 13
 tags:
 - AfD
 - Björn Höcke
+- Bernd Höcke
 - Christan Klar
 - Extremismus
-- Diagramm
 - Neonazis
 - Fackelumzüge
+- Fackelmarsch
 - Frank Haußner
+- Andreas Kalbitz
 - Hartmut Bergner
 - Martin Kohlmann
 - NichtDerUwe
 - Reichsbürger
+- Reichsbuerger
 - Saale-Orla Kreis
-- Terrorgruppe Reuß
+- Terror group Reuß
 - Torben Braga
 - Uwe Thrum
-
+- Verfassungsfeinde
+- Geschichtsrevisionismus
+- Corona Leugner
 ---
 
 Uwe Thrum wirbt mit seinen guten Kontakten zu Extremisten

@@ -6,23 +6,29 @@ weight: 13
 tags:
 - AfD
 - Björn Höcke
+- Bernd Höcke
 - Christan Klar
-- Extremismus
-- Diagram
+- Extremism
 - Neonazis
-- Fackelumzüge
+- Torch march
 - Frank Haußner
+- Andreas Kalbitz
 - Hartmut Bergner
 - Martin Kohlmann
 - NichtDerUwe
-- Reichsbürger
+- Reichsbuerger
+- Reich citizen
+- Reich citizens
+- Reichs citizens
 - Saale-Orla Kreis
-- Terrorgruppe Reuß
+- Terror group Reuß
 - Torben Braga
 - Uwe Thrum
+- enemies of the constitution
+- history revisionists
 ---
 
-# A detailled overview regarding Uwe Thrum and his connection to far-right activits and Reichsbürger extremists
+# A detailled overview regarding Uwe Thrum and his connection to far-right extremists and Reichs Citizen (Reichsbürger) extremists
 
 {{< rawhtml >}}
 

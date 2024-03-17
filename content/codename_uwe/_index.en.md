@@ -11,8 +11,6 @@ tags:
 - Christan Klar
 - Extremism
 - Neonazis
-- Fackelumzüge
-- Fackelmarsch
 - Torch march
 - Frank Haußner
 - Andreas Kalbitz
@@ -28,7 +26,7 @@ tags:
 - Torben Braga
 - Uwe Thrum
 - enemies of the constitution
-- revisionists
+- history revisionists
 ---
 
 The last two Uwes were something like a [damage to the thuringian state's reputation.](https://de.wikipedia.org/wiki/Nationalsozialistischer_Untergrund)

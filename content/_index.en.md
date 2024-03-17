@@ -8,8 +8,6 @@ tags:
 - Christan Klar
 - Extremism
 - Neonazis
-- Fackelumzüge
-- Fackelmarsch
 - Torch march
 - Frank Haußner
 - Andreas Kalbitz
@@ -25,7 +23,7 @@ tags:
 - Torben Braga
 - Uwe Thrum
 - enemies of the constitution
-- historical revisionists
+- history revisionists
 ---
 
 
