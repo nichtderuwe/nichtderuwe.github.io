@@ -11,7 +11,7 @@ defaultContentLanguageInSubdir= true
 
 [params]
   #editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
-  description = "Informationsseite Uwe Thrum und die Verbindungen zu Extremisten und Reichsbuergern"
+  description = "Informationsseite Uwe Thrum und seine Verbindungen zu Extremisten und Reichsbürgern"
   author = "Nicht Der 𝖀𝖂𝕰"
   showVisitedLinks = false
   disableBreadcrumb = false
@@ -43,7 +43,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Documentation Portal about AfD-Politician Uwe Thrum and his connections to far-right activists and extremists"
+title = "AfD-Politician Uwe Thrum and far-right reich-citizens"
 weight = 1
 languageName = "English"
 landingPageURL = "/en"
@@ -62,7 +62,7 @@ url = "/credits"
 weight = 30
 
 [Languages.de]
-title = "Informationsseite zu Uwe Thrum und seinen Verbindungen zu Extremisten und Reichsbuergern"
+title = "Doku Uwe Thrum's (AfD) Reichsbürger + Neonazi Umfeld"
 weight = 2
 languageName = "Deutsch"
 landingPageURL = "/de"
