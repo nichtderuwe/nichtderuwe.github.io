@@ -43,7 +43,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "AfD-Politician Uwe Thrum and far-right reich-citizens"
+title = "AfD-Politician Uwe Thrum surrounded by Reich citizens and neo-Nazis"
 weight = 1
 languageName = "English"
 landingPageURL = "/en"
@@ -62,7 +62,7 @@ url = "/credits"
 weight = 30
 
 [Languages.de]
-title = "Doku Uwe Thrum's (AfD) Reichsbürger + Neonazi Umfeld"
+title = "Infos | Uwe Thrum (AfD) zwischen Reichsbürgern und Neonazis"
 weight = 2
 languageName = "Deutsch"
 landingPageURL = "/de"
